@@ -31,4 +31,4 @@ if(max(array_count_values($array)) > 2 ) return false;
     }
 }
 
-var_dump(SequenciaCrescente([1, 2, 5, 3, 5]));
+var_dump(SequenciaCrescente([1, 3, 2]));
